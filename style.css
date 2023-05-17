@@ -1,0 +1,35 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.oi{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    font-size: 20px;
+    flex-wrap: wrap;
+    list-style: none;
+
+
+}
+.ola{
+    display: flex;
+    justify-content: space-between;
+    width: 90px;
+    border-right: 10px;
+}
+.hello{
+    display: flex;
+
+}
+.ba{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    font-family: Roboto;
+    font-weight: 100px;
+}
+
+*{
+    padding: 0px;
+    border: 0px;
+}
+
